@@ -1,3 +1,4 @@
 # learning_java
 
-This repository provides basic knowledge to write java code and has some examples also.
+
+This repository makes well verse of java programming. It explains how to write code in java and explains some basic examples also. 
